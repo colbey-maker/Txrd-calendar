@@ -1,0 +1,12 @@
+version: 1
+
+calendar:
+  name: "TXRD Companion"
+  timezone: "America/Chicago"
+  season: 2026
+
+output:
+  filename: "calendar.ics"
+
+subscription:
+  url: "https://colbey-maker.github.io/Txrd-calendar/calendar.ics"
