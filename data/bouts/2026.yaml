@@ -1,0 +1,29 @@
+version: 1
+season: 2026
+
+august:
+  title: "August Bout"
+  bouts:
+    - home_team: Putas
+      away_team: Hellcats
+      status: scheduled
+
+september:
+  title: "September Bout"
+  bouts:
+    - home_team: Holy Rollers
+      away_team: Cherry Bombs
+      status: scheduled
+
+october:
+  title: "Playoffs"
+  bouts:
+    - description: "Playoff teams TBD"
+      status: pending
+
+november:
+  title: "Championship"
+  bouts:
+    - home_team: Rhinestones
+      away_team: TBD
+      status: pending
