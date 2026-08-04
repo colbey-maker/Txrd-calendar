@@ -1,0 +1,67 @@
+season: 2026
+
+august:
+
+  week1:
+    monday:
+      - Open Bout
+    tuesday:
+      - Putas
+    wednesday:
+      - Hellcats
+
+  week2:
+    monday:
+      - Rhinestones
+    tuesday:
+      - Holy Rollers
+    thursday:
+      - Open Bout
+
+  week3:
+    monday:
+      - Open Bout
+      - Rhinestones
+    tuesday:
+      - Putas
+    wednesday:
+      - Hellcats
+
+  week4:
+    tuesday:
+      - Cherry Bombs
+    thursday:
+      - Open Bout
+
+september:
+
+  week1:
+    monday:
+      - Open Bout
+    tuesday:
+      - Holy Rollers
+    wednesday:
+      - Cherry Bombs
+
+  week2:
+    monday:
+      - Rhinestones
+    tuesday:
+      - Holy Rollers
+
+  week3:
+    monday:
+      - Open Bout
+    tuesday:
+      - Putas
+    wednesday:
+      - Cherry Bombs
+
+  week4:
+    monday:
+      - Open Bout
+      - Rhinestones
+    tuesday:
+      - Holy Rollers
+    wednesday:
+      - Hellcats
