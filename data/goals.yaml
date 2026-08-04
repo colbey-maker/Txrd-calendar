@@ -1,0 +1,44 @@
+version: 1
+season: 2026
+
+global:
+  monthly_practice_goal: 8
+  primary_goal: "Earn a draft position"
+  visibility_goal: "Practice with every charter"
+
+months:
+
+  august:
+    theme: "Support August bout teams"
+
+    goals:
+      - Attend 8 practices
+      - Prioritize Putas
+      - Prioritize Hellcats
+      - Practice with Rhinestones twice
+      - Attend at least one Open Bout
+
+  september:
+    theme: "Expand visibility"
+
+    goals:
+      - Attend 8 practices
+      - Prioritize Holy Rollers
+      - Prioritize Cherry Bombs
+      - Maintain Rhinestones visibility
+
+  october:
+    theme: "Playoff preparation"
+
+    goals:
+      - Stay visible
+      - Maintain eligibility
+      - Adapt once playoff teams are announced
+
+  november:
+    theme: "Draft month"
+
+    goals:
+      - Trust your training
+      - Stay confident
+      - Finish the season strong
