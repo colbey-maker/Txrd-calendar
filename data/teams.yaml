@@ -1,0 +1,41 @@
+version: 1
+season: 2026
+
+teams:
+
+  Rhinestones:
+    emoji: "🐴"
+    draft_priority: 1
+    practice_day: Monday
+    practice_time: "8:30 PM"
+
+  Putas:
+    emoji: "😈"
+    draft_priority: 2
+    practice_day: Tuesday
+    practice_time: "8:30 PM"
+
+  Holy Rollers:
+    emoji: "👼"
+    draft_priority: 3
+    practice_day: Tuesday
+    practice_time: "7:00 PM"
+
+  Hellcats:
+    emoji: "🐱"
+    draft_priority: 4
+    practice_day: Wednesday
+    practice_time: "8:30 PM"
+
+  Cherry Bombs:
+    emoji: "🍒"
+    draft_priority: 5
+    practice_day: Wednesday
+    practice_time: "7:00 PM"
+
+  Open Bout:
+    emoji: "🌟"
+    practice_days:
+      - Monday
+      - Thursday
+    practice_time: "7:00 PM"
