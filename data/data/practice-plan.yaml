@@ -3,65 +3,81 @@ season: 2026
 august:
 
   week1:
-    monday:
-      - Open Bout
-    tuesday:
-      - Putas
-    wednesday:
-      - Hellcats
+    focus: "Prioritize August bout teams"
+    practices:
+      monday:
+        - Open Bout
+      tuesday:
+        - Putas
+      wednesday:
+        - Hellcats
 
   week2:
-    monday:
-      - Rhinestones
-    tuesday:
-      - Holy Rollers
-    thursday:
-      - Open Bout
+    focus: "Increase Rhinestones visibility"
+    practices:
+      monday:
+        - Rhinestones
+      tuesday:
+        - Holy Rollers
+      thursday:
+        - Open Bout
 
   week3:
-    monday:
-      - Open Bout
-      - Rhinestones
-    tuesday:
-      - Putas
-    wednesday:
-      - Hellcats
+    focus: "Back-to-back day and reinforce August bout teams"
+    practices:
+      monday:
+        - Open Bout
+        - Rhinestones
+      tuesday:
+        - Putas
+      wednesday:
+        - Hellcats
 
   week4:
-    tuesday:
-      - Cherry Bombs
-    thursday:
-      - Open Bout
+    focus: "Maintain visibility across remaining teams"
+    practices:
+      tuesday:
+        - Cherry Bombs
+      thursday:
+        - Open Bout
 
 september:
 
   week1:
-    monday:
-      - Open Bout
-    tuesday:
-      - Holy Rollers
-    wednesday:
-      - Cherry Bombs
+    focus: "Shift focus to September bout teams"
+    practices:
+      monday:
+        - Open Bout
+      tuesday:
+        - Holy Rollers
+      wednesday:
+        - Cherry Bombs
 
   week2:
-    monday:
-      - Rhinestones
-    tuesday:
-      - Holy Rollers
+    focus: "Maintain Rhinestones visibility"
+    practices:
+      monday:
+        - Rhinestones
+      tuesday:
+        - Holy Rollers
 
   week3:
-    monday:
-      - Open Bout
-    tuesday:
-      - Putas
-    wednesday:
-      - Cherry Bombs
+    focus: "Maintain balance while supporting September bout teams"
+    practices:
+      monday:
+        - Open Bout
+      tuesday:
+        - Putas
+      wednesday:
+        - Cherry Bombs
 
   week4:
-    monday:
-      - Open Bout
-      - Rhinestones
-    tuesday:
-      - Holy Rollers
-    wednesday:
-      - Hellcats
+    focus: "Finish the month strong and stay visible"
+    practices:
+      monday:
+        - Open Bout
+        - Rhinestones
+      tuesday:
+        - Holy Rollers
+      wednesday:
+        - Hellcats
